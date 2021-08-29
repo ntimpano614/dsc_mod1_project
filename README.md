@@ -39,7 +39,7 @@ Monetary information was adjusted for inflation using the [US Inflation Calculat
 - Building a model to predict revenue or other measures of success. 
 
 ## More Information 
-To see the full EDA please see the Jupyter Notebook. 
+To see the full EDA please see the [Jupyter Notebook](./student_combined.ipynb). 
 
 For more information, contact [Nick Timpano](mailto:nick.timpano@gmail.com)
 
