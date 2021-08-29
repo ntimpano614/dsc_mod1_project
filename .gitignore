@@ -3,6 +3,9 @@
 __pycache__
 *.db
 *.pytest_cache
+notebook.pdf
+github.pdf
+Readme.ipynb
 zippedData
-deprecated 
+deprecated
 pictures
