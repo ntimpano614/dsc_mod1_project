@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Movies EDA 
 **Author**: [Nick Timpano](mailto:nick.timpano@gmail.com)
 
@@ -56,18 +55,3 @@ For more information, contact [Nick Timpano](mailto:nick.timpano@gmail.com)
 ├── tmdb_scrape.py
 └── tmdb_scrape_by_year.py
 ```
-
-=======
-This is a list of what's included in the project:   
-  
-Jupyer Notebook Files  
-student_combined.ipynb - main file  
-Inflation Rate.ipynb - used to retrieve inflation rate info   
-  
-Python Files - used for data scraping the TMDB API   
-tmdb_scrape.py   
-tmdb_scrape_by_year.py   
-
-Movies EDA Presentation.pdf   
-
->>>>>>> e73406f7d24995182ef9e07aff30f6833a3bcfa6
